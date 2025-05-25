@@ -91,6 +91,7 @@ const AuthPage = ({ setIsAuth }) => {
           {isLoginMode ? "Зарегистрируйтесь" : "Войдите"}
         </button>
       </div>
+      <p className="p-autor">Автор: Юсупжанов Равиль ПО 21-2</p>
     </div>
   );
 };
