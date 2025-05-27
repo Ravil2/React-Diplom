@@ -12,7 +12,7 @@ const Header = ({ onClickCart }) => {
             className="header__logo"
             width={40}
             height={40}
-            src="https://www.skolyx.se/6520-large_default/skolyx-premium-sneaker-in-dark-brown-leather.jpg"
+            src="https://www.copenhagenshoes.com/cdn/shop/files/THE_POWER_SNEAK_P_-Sneakers-CS8612-0022_WHITE-DK.ARMY-PEACH_a43fe0f7-5011-4361-ae74-8adab0953385.jpg?v=1743769781"
             alt="sneaker logo"
           />
         </Link>
