@@ -12,7 +12,7 @@ const Header = ({ onClickCart }) => {
             className="header__logo"
             width={40}
             height={40}
-            src="https://www.copenhagenshoes.com/cdn/shop/files/THE_POWER_SNEAK_P_-Sneakers-CS8612-0022_WHITE-DK.ARMY-PEACH_a43fe0f7-5011-4361-ae74-8adab0953385.jpg?v=1743769781"
+            src="https://slimages.macysassets.com/is/image/MCY/products/3/optimized/28291803_fpx.tif?fmt=webp&qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=1000"
             alt="sneaker logo"
           />
         </Link>
